@@ -1,4 +1,4 @@
-# telnetlib_add_recv_socket
+# telnetlib_external_socket
 Just added to the standard python telnetlib module the ability to receive an external socket
 
 I use telnet over SOCKS5 proxy
